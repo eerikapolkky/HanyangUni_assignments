@@ -1,6 +1,7 @@
-## This is my repository for assignments and projects for Hanyang University in South Korea. 
+# Hello,
+This is my repository for assignments and projects for Hanyang University in South Korea. 
 
-# Subjects to study:
+## Subjects to study:
 - Numerical Analysis
 - Deep Learning
 - Design and Analysis of Algoritms (2 projects)
