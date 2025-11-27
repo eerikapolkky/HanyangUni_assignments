@@ -1,7 +1,7 @@
-# HanyangUni_assignments
+## This is my repository for assignments and projects for Hanyang University in South Korea. 
 
-Subjects to study:
+# Subjects to study:
 - Numerical Analysis
-- Deep Learning (mostly in Google Colab)
-- Design and Analysis of Algoritms
-- Beginner Korean
+- Deep Learning
+- Design and Analysis of Algoritms (2 projects)
+- Beginner Korean (probably not used in here)
